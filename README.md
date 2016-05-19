@@ -1,2 +1,6 @@
 # apPopup
-apPopup is a jQuery plugin, use for popup modal windows and this is a light weight and amazing animation feature according to you use "Animate css" class for animation.
+A super jQuery popup plugin. Design for developers, it's simple to use.
+
+# Usage Installation
+```<script src="/your/path/apPopup.js"></script>```
+
